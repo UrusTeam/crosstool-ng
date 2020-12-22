@@ -26,3 +26,4 @@ targets/
 .build-all
 # .. and release creation
 release
+!build*.sh
